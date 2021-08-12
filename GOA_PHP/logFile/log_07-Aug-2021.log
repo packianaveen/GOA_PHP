@@ -1,0 +1,2423 @@
+2021-08-07 03:01:37pm: Initialize (Code to PLC) : Started
+2021-08-07 03:01:38pm: Initialize (PLC to Code) : Started
+2021-08-07 03:01:38pm: Command And Valve Status :1,2,2,2,2,2,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2
+2021-08-07 03:01:39pm: Initialize (Code to PLC) : Started
+2021-08-07 03:01:44pm: Command And Valve Status :1,2,2,2,2,2,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2
+2021-08-07 03:01:49pm: Command And Valve Status :1,2,2,2,2,2,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2
+2021-08-07 03:01:50pm: Start (PLC TO DB) : Started
+2021-08-07 03:01:50pm: Sensor data :50000,800,700,400,35,140,34,1.6,8,1.8,2.2,1,1.7,160,1.2
+2021-08-07 09:31:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:31:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:31:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:31:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:01:55pm: Initialize (PLC to Code) : Started
+2021-08-07 09:31:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:01:55pm: Sensor data :200000,700,650,300,31,120,32,1.6,8,1.8,2.2,1,1.7,160,1.2
+2021-08-07 03:01:55pm: Initialize (PLC to Code) : Started
+2021-08-07 09:31:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:31:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:31:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:31:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:02:33pm: Initialize (Code to PLC) : Started
+2021-08-07 03:02:33pm: Initialize (PLC to Code) : Started
+2021-08-07 09:32:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:02:34pm: Command And Valve Status :1,2,2,2,2,2,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2
+2021-08-07 09:32:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:02:39pm: Start (PLC TO DB) : Started
+2021-08-07 03:02:39pm: Sensor data :32000,800,700,400,35,140,34,1.6,8,1.8,2.2,1,1.7,160,1.2
+2021-08-07 03:02:39pm: Command And Valve Status :2,1,2,2,2,2,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2
+2021-08-07 09:32:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:02:44pm: Sensor data :32000,900,800,500,38,160,26,1.6,8,1.8,2.2,1,1.7,160,1.2
+2021-08-07 09:32:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:02:45pm: Command And Valve Status :2,1,2,2,2,2,2,2,2,2,0,2,2,2,2,2,2,2,2,2,1
+2021-08-07 09:32:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:02:49pm: Sensor data :32000,800,700,400,35,140,34,1.6,8,1.8,2.2,1,1.7,160,1.2
+2021-08-07 09:32:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:02:50pm: Command And Valve Status :2,1,2,2,2,2,2,2,2,2,0,2,2,2,2,2,2,2,2,1,1
+2021-08-07 09:32:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:02:54pm: Sensor data :50000,900,800,500,38,160,26,1.6,8,1.8,2.2,1,1.7,160,1.2
+2021-08-07 09:32:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:02:55pm: Command And Valve Status :2,1,2,2,2,2,2,2,2,2,0,2,2,2,2,2,1,2,2,1,1
+2021-08-07 09:32:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:32:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:02:59pm: Sensor data :200000,900,800,500,38,160,26,1.7,9,1.9,3,1.1,1.8,170,1.3
+2021-08-07 09:33:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:03:01pm: Command And Valve Status :2,1,2,1,1,2,2,2,2,2,0,2,2,1,2,2,1,2,1,1,1
+2021-08-07 09:33:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:03:04pm: Sensor data :50000,900,800,500,38,160,26,1.2,7,1.5,1,0.9,1.6,150,1.1
+2021-08-07 09:33:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:03:06pm: Command And Valve Status :2,1,2,1,1,2,2,2,2,2,0,2,2,1,2,2,1,2,1,1,1
+2021-08-07 09:33:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:03:09pm: Sensor data :50000,800,700,400,35,140,34,1.6,8,1.8,2.2,1,1.7,160,1.2
+2021-08-07 09:33:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:03:11pm: Command And Valve Status :2,1,2,1,1,2,2,2,2,2,0,2,2,1,2,2,1,2,1,1,1
+2021-08-07 09:33:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:03:14pm: Sensor data :50000,900,800,500,38,160,26,1.6,8,1.8,2.2,1,1.7,160,1.2
+2021-08-07 09:33:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:03:16pm: Command And Valve Status :2,1,2,1,1,2,2,2,2,2,0,2,2,1,2,2,1,2,1,1,1
+2021-08-07 09:33:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:03:19pm: Sensor data :32000,900,800,500,38,160,26,1.6,8,1.8,2.2,1,1.7,160,1.2
+2021-08-07 09:33:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:03:22pm: Command And Valve Status :2,1,2,1,1,2,2,2,2,2,0,2,2,1,2,2,1,2,1,1,1
+2021-08-07 09:33:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:03:25pm: Sensor data :32000,700,650,300,31,120,32,1.6,8,1.8,2.2,1,1.7,160,1.2
+2021-08-07 09:33:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:03:27pm: Command And Valve Status :2,1,2,1,1,2,2,2,2,2,0,2,2,1,2,2,1,2,1,1,1
+2021-08-07 09:33:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:03:30pm: Sensor data :200000,800,700,400,35,140,34,1.6,8,1.8,2.2,1,1.7,160,1.2
+2021-08-07 09:33:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:03:32pm: Command And Valve Status :2,1,2,1,1,2,2,2,2,2,0,2,2,1,2,2,1,2,1,1,1
+2021-08-07 09:33:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:03:35pm: Sensor data :32000,800,700,400,35,140,34,1.6,8,1.8,2.2,1,1.7,160,1.2
+2021-08-07 09:33:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:33:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:34:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:35:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:36:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 09:37:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:23:07pm: Initialize (PLC to Code) : Started
+2021-08-07 03:23:33pm: Initialize (PLC to Code) : Started
+2021-08-07 03:24:57pm: Initialize (PLC to Code) : Started
+2021-08-07 03:26:00pm: Initialize (PLC to Code) : Started
+2021-08-07 03:26:26pm: Initialize (PLC to Code) : Started
+2021-08-07 03:33:37pm: Initialize (Code to PLC) : Started
+2021-08-07 03:33:38pm: Initialize (PLC to Code) : Started
+2021-08-07 03:33:38pm: Command And Valve Status :1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:33:43pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:33:49pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:33:54pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:33:59pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:34:05pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:34:10pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:34:15pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:34:20pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:34:26pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:34:31pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:34:36pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:34:42pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:34:47pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:34:52pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:34:57pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:35:03pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:35:08pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:05:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:35:13pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:05:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:35:18pm: Start (PLC TO DB) : Started
+2021-08-07 03:35:19pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:05:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:35:24pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:05:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:35:29pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:05:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:35:34pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:05:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:35:40pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:35:45pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:05:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:35:50pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:05:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:05:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:35:56pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:36:01pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:36:06pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:36:12pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:06:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:36:17pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:36:22pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:36:27pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:46:27pm: Initialize (Code to PLC) : Started
+2021-08-07 03:46:27pm: Initialize (PLC to Code) : Started
+2021-08-07 03:46:28pm: Command And Valve Status :1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:46:33pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:16:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:46:38pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:16:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:46:43pm: Start (PLC TO DB) : Started
+2021-08-07 10:16:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:46:43pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:16:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:46:49pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:16:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:46:54pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:16:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:16:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:46:59pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:17:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:47:05pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:17:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:47:10pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:17:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:47:15pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:17:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:47:21pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:17:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:47:26pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:17:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:47:31pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:17:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:47:36pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:17:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:47:42pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:17:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:47:47pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:17:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:47:52pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:17:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:47:58pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:17:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:17:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:48:03pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:18:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:48:08pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:18:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:48:13pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:18:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:48:19pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:18:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:48:24pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:18:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:48:29pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:18:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:48:35pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:18:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:48:40pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:18:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:48:45pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:18:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:48:50pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:18:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:48:56pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:18:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:18:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:49:01pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:19:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:49:06pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:19:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:49:12pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:19:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:49:17pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:19:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:49:22pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:19:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:49:28pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:19:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:49:33pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:19:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:49:38pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:19:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:49:43pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:19:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:49:49pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:19:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:49:54pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:19:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:19:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:49:59pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:20:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:50:05pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:20:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:50:10pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:20:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:50:15pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:20:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:50:20pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:20:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:50:26pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:20:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:50:31pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:20:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:50:36pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:20:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:50:42pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:20:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:50:47pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:20:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:20:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:50:52pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:50:57pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:51:03pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:51:08pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:21:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:51:13pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:51:19pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:51:24pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:51:29pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:51:34pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:51:40pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:51:45pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:51:50pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:51:56pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:52:01pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:52:06pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:22:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:52:11pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:22:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:52:17pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:22:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:52:22pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:22:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:52:27pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:22:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:52:33pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:22:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:52:38pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:22:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:52:43pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:22:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:52:49pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:22:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:52:54pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:22:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:22:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:52:59pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:23:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:53:04pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:23:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:53:10pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:23:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:53:15pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:23:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:53:20pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:23:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:53:26pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:23:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:53:31pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:23:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:53:36pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:23:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:53:41pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:23:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:53:47pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:23:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:53:52pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:23:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:53:57pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:23:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:23:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:54:03pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:24:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:54:08pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:24:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:54:13pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:24:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:54:19pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:24:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:54:24pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:24:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:54:29pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:24:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:54:34pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:24:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:54:40pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:24:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:54:45pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:24:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:54:50pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:24:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:54:55pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:24:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:24:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:55:01pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:25:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:55:06pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:25:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:55:11pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:25:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:55:17pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:25:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:55:22pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:25:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:55:27pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:25:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:55:32pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:25:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:55:38pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:25:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:55:43pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:25:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:55:48pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:25:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:55:54pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:25:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:25:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:55:59pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:25:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:56:04pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:26:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:56:09pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:26:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:56:15pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:26:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:56:20pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:26:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:56:25pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:26:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:56:31pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:26:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:56:36pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:26:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:56:41pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:26:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:56:46pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:26:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:56:52pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:26:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:56:57pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:26:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:26:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:57:02pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:27:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:57:08pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:27:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:57:13pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:27:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:57:18pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:27:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:57:23pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:27:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:57:29pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:27:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:57:34pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:27:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:57:39pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:27:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:57:45pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:27:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:57:50pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:27:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:57:55pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:27:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:27:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:58:00pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:28:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:58:06pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:28:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:58:11pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:28:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:58:16pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:28:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:58:22pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:28:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:58:27pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:28:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:58:32pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:28:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:58:38pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:28:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:58:43pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:28:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:58:48pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 03:58:53pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:28:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:28:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:58:59pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:28:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:59:04pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:29:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:59:09pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:29:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:59:15pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:29:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:59:20pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:29:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:59:25pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:29:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:59:30pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:29:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:59:36pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:29:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:59:41pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:29:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:59:46pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:29:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:59:52pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:29:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 03:59:57pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:29:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:29:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:00:02pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:30:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:00:08pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:30:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:00:13pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:30:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:00:18pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:30:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:00:23pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:30:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:00:29pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:30:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:00:34pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:30:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:00:39pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:30:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:00:45pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:30:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:00:50pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:30:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:00:55pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:30:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:30:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:01:01pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:31:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:01:06pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:31:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:01:11pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:31:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:01:16pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:31:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:01:22pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:31:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:01:27pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:31:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:01:32pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:31:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:01:38pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:31:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:01:43pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:31:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:01:48pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:31:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:01:53pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:31:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:31:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:01:59pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:31:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:02:04pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:32:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:02:09pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:32:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:02:15pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:32:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:02:20pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:32:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:02:25pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:32:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:02:31pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:32:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:02:36pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:32:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:02:41pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:32:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:02:46pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:32:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:02:52pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:32:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:02:57pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:32:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:32:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:03:02pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:33:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:03:08pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:33:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:03:13pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:33:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:03:18pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:33:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:03:23pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:33:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:03:29pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:33:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:03:34pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:33:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:03:39pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:33:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:03:45pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:33:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:03:50pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:33:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:03:55pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:33:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:33:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:04:00pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:34:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:04:06pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:34:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:04:11pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:34:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:04:16pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:34:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:04:22pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:34:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:04:27pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:34:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:04:32pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:34:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:04:37pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:34:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:04:43pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:04:48pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:04:53pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:34:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:34:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:04:59pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:34:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:05:04pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:35:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:05:09pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:35:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:05:14pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:35:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:05:20pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:35:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:05:25pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:35:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:05:30pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:35:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:05:36pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:35:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:05:42pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:35:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:05:47pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:35:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:05:53pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:35:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:05:58pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:35:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:35:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:06:03pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:36:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:06:09pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:36:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:06:14pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:36:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:06:19pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:36:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:06:25pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:36:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:06:30pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:36:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:06:36pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:36:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:06:41pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:36:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:06:46pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:36:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:06:51pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:36:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:06:57pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:36:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:36:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:07:02pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:37:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:07:07pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:37:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:07:12pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:37:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:07:18pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:37:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:07:23pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:37:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:07:28pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:37:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:07:34pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:37:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:07:39pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:37:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:07:44pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:37:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:07:50pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:37:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:07:55pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:37:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:37:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:08:00pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:38:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:08:05pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:38:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:08:11pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:38:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:08:16pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:38:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:08:21pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:38:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:08:27pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:38:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:08:32pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:38:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:08:37pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:38:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:08:43pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:38:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:08:48pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:38:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:08:53pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:38:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:38:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:08:58pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:38:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:09:04pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:39:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:06am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:07am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:09:09pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:39:09am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:10am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:11am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:12am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:13am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:14am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:09:14pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:39:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:18am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:19am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:09:20pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:39:20am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:21am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:22am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:23am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:24am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:09:25pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:39:25am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:26am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:27am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:28am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:29am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:30am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:09:30pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:39:31am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:32am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:33am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:34am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:35am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:09:35pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:39:36am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:37am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:38am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:39am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:40am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:09:41pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:39:41am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:42am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:43am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:44am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:45am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:46am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:09:46pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:39:47am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:48am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:49am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:50am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:51am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:09:51pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:39:52am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:53am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:54am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:55am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:56am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:09:57pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:39:57am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:58am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:39:59am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:40:00am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:40:01am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:10:02pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:40:02am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:40:03am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:40:04am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:40:05am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:10:07pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:10:12pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:10:18pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:10:23pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:10:28pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:10:33pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:10:39pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:10:44pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:10:49pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:10:55pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:11:00pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:11:05pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:11:10pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:11:16pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:11:21pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:11:26pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:11:32pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:11:37pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:11:42pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:11:47pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:11:53pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:11:58pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:12:03pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:12:09pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:12:14pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:12:19pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:12:25pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:12:30pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:12:35pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:12:40pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:12:46pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:12:51pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:12:56pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:13:02pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:13:07pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:13:12pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:13:17pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:13:23pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:13:28pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:13:33pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:13:39pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:13:44pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:13:49pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:13:55pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:14:00pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:14:05pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:14:10pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:14:16pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:14:21pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:14:26pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:14:32pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:14:37pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:14:42pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:14:47pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:14:53pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:14:58pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:15:03pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:15:09pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:15:14pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:15:19pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:15:24pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:15:30pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:15:35pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:15:40pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:15:46pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:15:51pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:15:56pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:16:01pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:16:07pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:16:12pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:16:17pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:16:23pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:16:28pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:16:33pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:16:38pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:16:44pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:16:49pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:16:54pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:17:00pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:17:05pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:17:10pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:17:15pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:17:21pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:17:26pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:17:31pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:17:37pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:17:42pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:17:47pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:17:52pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:17:58pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:18:03pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:18:08pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:18:14pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:18:19pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:18:24pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:18:29pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:18:35pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:18:40pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:18:45pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:18:51pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:18:56pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:19:01pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:19:06pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:19:12pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:19:17pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:19:22pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:19:28pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:19:33pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:19:38pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:19:44pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:19:49pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:19:54pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:19:59pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:20:05pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:20:10pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:20:15pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:20:21pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:20:26pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:20:31pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:20:36pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:20:42pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:20:47pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:20:52pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:20:58pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:21:03pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:21:08pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:21:13pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:21:19pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:21:24pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:21:29pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:21:35pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:21:40pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:21:45pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:21:50pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:21:56pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:22:01pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:22:06pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:22:12pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:22:17pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:22:22pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:22:27pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:22:33pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:22:38pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:22:43pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:22:49pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:22:54pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:22:59pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:23:05pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:23:10pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:23:15pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:23:20pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:23:26pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:23:31pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:23:36pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:23:41pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:23:47pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:23:52pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:23:57pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:24:03pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:24:08pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:24:13pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:24:18pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:24:24pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:24:29pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:24:35pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:24:40pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:24:45pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:24:50pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:24:56pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:25:01pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:25:06pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:25:12pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:25:17pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:25:22pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:25:27pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:25:33pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:25:38pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:25:43pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:25:48pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:25:54pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:25:59pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:26:04pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:26:10pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:26:15pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:26:20pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:26:25pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:26:31pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:26:36pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:26:41pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:26:46pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:26:53pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:26:58pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:27:05pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:27:11pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:27:16pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:27:21pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:27:27pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:27:32pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:27:37pm: Command And Valve Status :0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:28:02pm: Initialize (Code to PLC) : Started
+2021-08-07 04:28:02pm: Initialize (PLC to Code) : Started
+2021-08-07 04:28:03pm: Command And Valve Status :1,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:28:08pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:58:08am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:28:13pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 10:58:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:58:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:58:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:58:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:58:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:58:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:58:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:58:15am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 10:58:16am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:28:17pm: Start (PLC TO DB) : Started
+2021-08-07 10:58:17am: Graph : Unknown column 'T1' in 'field list'
+2021-08-07 04:28:19pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:28:24pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:28:29pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:28:35pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:28:40pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:28:45pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:28:50pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:28:56pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:29:01pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:29:06pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:29:12pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:29:17pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:29:22pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:29:27pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:29:33pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:29:38pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:29:43pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:29:48pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:29:54pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:29:59pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:30:04pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:30:09pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:30:15pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:30:20pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:30:25pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:30:31pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:30:36pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:30:41pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:30:46pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:30:52pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:30:57pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:31:02pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:31:07pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:31:13pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:31:18pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:31:23pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:31:29pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:31:34pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:31:39pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:31:44pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:31:50pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:31:55pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:32:00pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:32:05pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:32:11pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:32:16pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:32:21pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:32:27pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:32:32pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:32:37pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:32:42pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:32:48pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:32:53pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:32:58pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:33:03pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:33:09pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:33:14pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:33:19pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:33:25pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:33:30pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:33:35pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:33:40pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:33:46pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:33:51pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:33:56pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:34:01pm: Command And Valve Status :0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+2021-08-07 04:53:27pm: Initialize (PLC to Code) : Started
+2021-08-07 04:53:54pm: Initialize (PLC to Code) : Started
+2021-08-07 04:54:59pm: Initialize (PLC to Code) : Started
+2021-08-07 04:55:39pm: Initialize (PLC to Code) : Started
+2021-08-07 04:56:43pm: Initialize (PLC to Code) : Started
